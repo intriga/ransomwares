@@ -1,4 +1,4 @@
-# [Repository Name] - A Ransomware Simulation Toolkit
+# - A Ransomware Simulation Toolkit
 
 ⚠️ **DISCLAIMER: FOR EDUCATIONAL PURPOSES ONLY** ⚠️
 
